@@ -20,6 +20,10 @@
 
 ![image](https://cdn.discordapp.com/attachments/392407913140060190/1009102986024337518/rewards.png) <br>
 
-<p>5. olarak coin ekle/çıkar komudunu kullanabilcek kişileri belirliyoruz ( 1 eklemek için["id"] 1 den fazla kişi eklemek için ["id1", "id2"] şeklinde yazabilirsiniz</p>
+<p>5. olarak 51. satırda coin ekle/çıkar komudunu kullanabilcek kişileri belirliyoruz 1 kişi eklemek için["id"] 1 den fazla kişi eklemek için ["id1", "id2"] şeklinde yazabilirsiniz</p>
 
 ![image](https://cdn.discordapp.com/attachments/392407913140060190/1009103689052602480/ekleckar.png) <br>
+
+<p>6. olarak duruma göre rol verme sistemini kuracağız ( mesela durumunuz wandal.tech olduğunda bot size x rolünü veriyor ), bunun için 54. satıra verilcek rolün id sini 55. satıra ise durum ne olursa rolün verileceğini yazıyoruz</p>
+
+![image](https://cdn.discordapp.com/attachments/392407913140060190/1009105706215026739/durumrol.png)
