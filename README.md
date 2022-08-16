@@ -19,3 +19,7 @@
 <p>4. olarak ise ödül olarak verilecek coinleri ekliyoruz, 47. satıra tahmin oyununun ödülünü 48. satıra ise boost basmanın ödülünü yazıyoruz.</p>
 
 ![image](https://cdn.discordapp.com/attachments/392407913140060190/1009102986024337518/rewards.png)
+
+<p>5. olarak coin ekle/çıkar komudunu kullanabilcek kişileri belirliyoruz ( 1 eklemek için["id"] 1 den fazla kişi eklemek için ["id1", "id2"] şeklinde yazabilirsiniz</p>
+
+![image](https://cdn.discordapp.com/attachments/392407913140060190/1009103689052602480/ekleckar.png)
