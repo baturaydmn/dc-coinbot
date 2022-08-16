@@ -9,6 +9,6 @@
 
 <p>2. olarak ise botun "Top Coin" sıralamasının olacağı kanalı ve mesajı ayarlıyorsunuz, 39. satırdaki kanala configi 40. satırdaki kanala ise mesaj id sini yazmalısınız ( mesajı eval komudu ile yazdırmanız gerekmektedir(görünüşü ektedir))</p> 
 
-![image](https://cdn.discordapp.com/attachments/392407913140060190/1009100830126907403/topmessage2.png)
+![image](https://cdn.discordapp.com/attachments/392407913140060190/1009101355006312539/topmessage2.png)
 ![image](https://cdn.discordapp.com/attachments/392407913140060190/1009100396188422244/top_message.png)
 
