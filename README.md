@@ -26,4 +26,11 @@
 
 <p>6. olarak duruma göre rol verme sistemini kuracağız ( mesela durumunuz wandal.tech olduğunda bot size x rolünü veriyor ), bunun için 54. satıra verilcek rolün id sini 55. satıra ise durum ne olursa rolün verileceğini yazıyoruz</p>
 
-![image](https://cdn.discordapp.com/attachments/392407913140060190/1009105706215026739/durumrol.png)
+![image](https://cdn.discordapp.com/attachments/392407913140060190/1009105706215026739/durumrol.png) <br>
+
+<p>7. olarak market komudunu ayarlıyoruz 58 ve 59. satırlarda 2 adet ürün bulunuyor her üründe 4 adet değişken bulunuyor, sırasıyla: Name(İsim) - Emoji(Emoji) - Price(Ücret) ve Description(Açıklama) Aşağıdaki fotoğraflarda Nelerin nerde gözüktüğü işaretlenmiştir</p>
+
+![image](https://cdn.discordapp.com/attachments/392407913140060190/1009109324565598228/market.png)
+![image](https://cdn.discordapp.com/attachments/392407913140060190/1009108709923897534/market_gorunum.png) <br>
+
+<p>Botun kurulumu bu kadardı, eğer kullanacak iseniz lütfen githubdan bir star atıp takip edin :D Lütfen izinsiz paylaşmayın^^</p>
